@@ -1,0 +1,653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new letter, to all drunkards, whoremongers, thieves, disobedience to parents, swearers, lyers, &amp;c. containing a serious and earnest exhortation, that they would forsake their evil ways. Shewing also, how many inconveniences the practice of these vices brings upon them, as impairation of good name, destruction of health, ruin in estate, making themselves worse than beasts; rendring themseves clowns and fools, and edious to God and all good men, bringing themselves to untimely ends, and many more inconveniences; but, what is worst of all, ruin both of soul and body in the world to come unless repented of. : To which is added, some rules how to lay the foundation of repentance aright, and how, by the grace of God, to perfect the same. : With exhortations to put all in practice. / By J.F.</title>
+            <author>J. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85117</idno>
+            <idno type="STC">Wing F42A</idno>
+            <idno type="STC">ESTC R202507</idno>
+            <idno type="EEBO-CITATION">45578371</idno>
+            <idno type="OCLC">ocm 45578371</idno>
+            <idno type="VID">172295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172295)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2624:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new letter, to all drunkards, whoremongers, thieves, disobedience to parents, swearers, lyers, &amp;c. containing a serious and earnest exhortation, that they would forsake their evil ways. Shewing also, how many inconveniences the practice of these vices brings upon them, as impairation of good name, destruction of health, ruin in estate, making themselves worse than beasts; rendring themseves clowns and fools, and edious to God and all good men, bringing themselves to untimely ends, and many more inconveniences; but, what is worst of all, ruin both of soul and body in the world to come unless repented of. : To which is added, some rules how to lay the foundation of repentance aright, and how, by the grace of God, to perfect the same. : With exhortations to put all in practice. / By J.F.</title>
+                  <author>J. F.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Bradford,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd, April 15. 1695. D. Poplar. And entred [sic] according to order."</note>
+                  <note>"Courteous reader, if these arguments are so weak and frivolous, that you judg [sic] it not worth laving [sic] out so small a matter of money, notwithstanding you are wellcome to read it gratis; only desired not to danb it, in order to return it in an hour"--Cover.</note>
+                  <note>Front cover included in page count.</note>
+                  <note>Covers have woodcut designs.</note>
+                  <note>Imperfect: cropped with some loss of text.</note>
+                  <note>Reproduction of original in the Christ Church (University of Oxford) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:172295:1"/>
+            <pb facs="tcp:172295:1"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>If theſe Arguments are ſo weak and frivolous, that you judg it not worth laying out ſo ſmall a matter of Money, notwithſtanding you are wellcome to read it <hi>gratis;</hi> only deſired not to daub it, in order to return it in an hour.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:172295:2"/>
+            <pb facs="tcp:172295:2" rendition="simple:additions"/>
+            <p>A NEW LETTER, TO ALL <hi>Drunkards, Whoremongers, Thieves, Diſobedience to Parents, Swea<g ref="char:EOLhyphen"/>rers, Lyers,</hi> &amp;c.</p>
+            <p>Containing a Serious and Earneſt EXHORTATION, THAT They would forſake their <hi>Evil Ways.</hi>
+            </p>
+            <p>SHEWING ALSO,</p>
+            <p>How many Inconveniences the Practice of theſe Vices brings upon them, as impairation of good Name, deſtruction of Health, ruin in Eſtate, making themſelves worſe than Beaſts, rendring then ſeven Clowns and Fools, and edious to God and all good Men, bringing themſelves to untimely Ends, and ma<g ref="char:EOLhyphen"/>ny more Inconveniences; but, what is worſt of all ruin both of Soul and Body in the World to come unleſs repented of.</p>
+            <p>
+               <hi>To which is added,</hi> Some Rules how to lay the Founda<g ref="char:EOLhyphen"/>tion of Repentance aright, and how, by the Grace of God, to perfect the ſame.</p>
+            <p>
+               <hi>With Exhortations to put all in Practice.</hi>
+            </p>
+            <p>By <hi>J. F.</hi>
+            </p>
+            <p>Licens'd, <hi>April</hi> 15. 1695. <hi>D. Poplar.</hi> And Entred according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Bradford,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:172295:3"/>
+            <head>To all Drunkards, Diſobedient to Parents, Whoremongers, Thieves, Swearers, Lyers, <hi>&amp;c.</hi>
+            </head>
+            <p>THE Grace of our Lord Jeſus Chriſt, dear<g ref="char:EOLhyphen"/>ly beloved Son of God, who was mani<g ref="char:EOLhyphen"/>feſt in the fleſh, and who ſuffered ſuch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olorous pangs upon the Croſs, on purpoſe that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inners might find remiſſion through his Blood; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Grace and Mercy light upon you abundantly, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd reclaim you from all ſuch ſins, and from every evil way.</p>
+            <p>My Brethren, what pity it is? nay further, what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhame it is? That men who profeſs ſo holy a Re<g ref="char:EOLhyphen"/>ligion, ſhould live ſuch monſtrous wicked lives?</p>
+            <p>You who profeſs the beſt of Religions, do pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce the worſt of lives, and render your ſelves <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orſe than Men of the worſt Profeſſion.</p>
+            <p>But this is not all. For,</p>
+            <p>In many things you render your ſelves more <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ile than the vileſt of Beaſts.</p>
+            <p>And now I earneſtly exhort you, that you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould diligently and reverently hear, what God himſelf ſays unto you out of his Word, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich is his revealed Will unto us.</p>
+            <p>Why it ſays plainly, <hi>You ſhall not inherit the Kingdom of God.</hi>
+            </p>
+            <p>Look into 1 <hi>Cor.</hi> 6.9, 10. and there you will find <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat terrible Word directly pointing you out, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich (if your Hearts were not as the Adamant
+<pb n="5" facs="tcp:172295:3"/>ſtone) ſhould ſtrike you into horrible Amazemen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>For thus it ſays, <hi>ver.</hi> 9. <hi>Know ye not that the un<g ref="char:EOLhyphen"/>righteous ſhall not inherit the Kingdom of God? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not deceived, neither Fornicators, nor Idolater <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not Adulterers, nor effeminate, nor abuſers of them<g ref="char:EOLhyphen"/>ſelves with mankind.</hi>
+            </p>
+            <p>Ver. 10. <hi>Nor Thieves, nor Covetous, n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Drunkards, nor Revilers, nor Extortioners, ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inherit the Kingdom of God.</hi>
+            </p>
+            <p>Again, <hi>Gal.</hi> 5.19, 20, 21.</p>
+            <p>Ver. 19. <hi>Now the works of the fleſh are manife<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which are theſe, Adultery, Fornication, <g ref="char:V">Ʋ</g>nclea<g ref="char:EOLhyphen"/>neſs, Laſciviouſneſs.</hi>
+            </p>
+            <p>Ver. 20. <hi>Idolatry, Witchcraft, Hatred, Varian<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Emulations, Wrath, Strife, Sedition, Hereſies.</hi>
+            </p>
+            <p>Ver. 21. <hi>Envying, Murders, Drunkenneſs, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>velling, and ſuch like; of which I tell you before, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have told you in times paſt, that they that do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> things ſhall not inherit the Kingdom of God.</hi>
+            </p>
+            <p>Where I pray you <hi>ſeriouſly conſider</hi> what is ſai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>And firſt of all, the Apoſtle expoſtulates w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them thus, <hi>Know ye not?</hi>
+            </p>
+            <p>And what is it he inquires if they knew not? why it is, That</p>
+            <p>
+               <hi>The unrighteous ſhall not inherit the Kingdom of Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>Form whence I do infer.</p>
+            <p>That they were not ignorant, that the c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting ſuch ſins (unleſs repented of) was d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nation, by his wri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to them, <hi>Know ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and as it were in an angry Tone too.</p>
+            <p>And now I beſeech you bear with me, alth<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> apply it nearer, and I pray God for his So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="6" facs="tcp:172295:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Chriſt's ſake, that what I am now writing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you, may have its deſired effect.</p>
+            <p>And to the end it may,</p>
+            <p>I pray you ſeriouſly to conſider and examine <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur ſelves, as though you were to appear be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re God this very moment, even before you <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uld have time to read two lines, theſe four <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lowing particulars:</p>
+            <p>Firſt, <hi>Whether of theſe Mens caſe be not your caſe? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ether you can ſafely and confidently tell God, (if you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to breath no more till you were to appear before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>) that you did not know that the unrighteous ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> inherit the Kingdom of Heaven? I doubt not: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> take it for granted, that moſt of you know it well <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gh, only I rather believe, that your Hearts are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d in ſin, and ſo you do not conſider it.</hi>
+            </p>
+            <p>Secondly, <hi>Conſider whether or no in your own Judg<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t, that that ſervant that knows his Lords will, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not do it, doth not deſerve to be beat with many <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es?</hi>
+            </p>
+            <p>Thirdly, <hi>Conſider if you were now at the Tribunal <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od, if you could alledge any thing in excuſe for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſins, that may in any probability bring you off; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dering alſo, that you were not ignorant that you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not to have done them?</hi>
+            </p>
+            <p>Fourthly, <hi>Conſider whether you are able to bear Wrath that ſhall be poured out on you for theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s?</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the next place, the Apoſtle exhorts them to be miſtaken, ſaying, <hi>Be not deceived,</hi> &amp; then <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vely affirms, that <hi>neither Fornicators nor Ido<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, nor Adulterers,</hi> &amp;c. <hi>ſhall inherit the Kingdom</hi>
+               <pb n="7" facs="tcp:172295:4"/>Oh that the ſerious conſideration of theſe things <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight make you walk circumſpectly! Oh that I could tell what to write to make you leave off theſe things! that I could terrifie you, to rather, that I could win you by love from the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and that I may, <hi>I</hi> will write ſomething concerning each ſin in particular; and I earneſtly beg your dili<g ref="char:EOLhyphen"/>gent attention to my Advice, though a poor weak frail Creature.</p>
+            <p>And firſt concerning Drunkenneſs.</p>
+            <p>I beſeech you ſo many as are addicted to this Vice, conſider, that you render your ſelves Beaſts, ſo far are you from being Men, but much more Chriſtians.</p>
+            <p>A Man differs from a Beaſt, in that he is endu<g ref="char:EOLhyphen"/>ed with Reaſon; but when that is depraved with Drink, pray what is he then?</p>
+            <p>Secondly, You are worſe than Beaſts; a Beaſt may riſe in Judgment againſt you and condemn you, for an Ox or Aſs, turn him to ever ſo much Meat or Drink, and he ſhall not Eat or Drink to any intemperance: now you that are indued with Reaſon how will you anſwer that?</p>
+            <p>Thirdly, you become a Fool and a laughing Stock; for how many, (even his own company too) deride a Man in Drink.</p>
+            <p>And here I will take occaſion to reprove all thoſe, of what degree ſoever, that delight t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make Men Drunk, and care not what trouble the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are at, or what money they ſpend, ſo they do bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do it: This is the very Picture of the Devil.</p>
+            <p>Is it not ſufficient, that you have your own ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="8" facs="tcp:172295:5"/>to anſwer for, but that you muſt draw upon you other Mens alſo? <hi>I</hi> pray God you get well off of your own. <hi>I</hi> pray refrain from ſuch impiety. How much better were it to give that mony to the Poor, &amp; ſo lay up for your ſelves <hi>Treaſure</hi> in <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> than thus to purchaſe a Place with it in Hell?</p>
+            <p>Fourthly, You bring your ſelves into diſgrace; for unleſs it be your own mad Crew, no body elſe eſteems you. A Drunkard is a Clown, and his practice is rude and ill bread, not agreeable to that good Manners that is uſed in Converſation.</p>
+            <p>For if a drunken Man were to go make a Viſit with Company, would not his Company be aſhamed of him? Yes they would, though per<g ref="char:EOLhyphen"/>haps they could not in Civility get rid of him: Or if a Man were at a Feaſt, or at a publick Aſſembly either of Church or State, and were Drunk; is this good Manners? Why then as <hi>I</hi> ſaid before, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Drunkard is a rude, ill-bred Clown.</p>
+            <p>Fifthly, You bring Sickneſs on your ſelves; How many hereby have deſtroyed their Healths! Thoſe good Creatures which we ought to receive <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith thankſgiving, are baſely abuſed to the diſ<g ref="char:EOLhyphen"/>honour of God, and the deſtruction of our ſelves.</p>
+            <p>Sixthly, You ruin your Eſtates, what it may <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e your Parents have painfully got; and in get<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng it too, may be, have done many good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orks; you uſe it to bear your Charges on the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay to Hell, and it may be uſe great endeavours, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at it may laſt to your Journeys end, Men that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rhaps are void of the grace of God, yet com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on Frugality teaches them others things.</p>
+            <pb n="9" facs="tcp:172295:5"/>
+            <p>Seventhly, That which is worſt of all, You deſtroy y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Souls; for be not deceived, you ſhall not inherit the Kingd<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of God. For nothing that doth not bear his image ſh<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> come there, and I am ſure, to be Drunk doth not. It is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ugly deformed Image, the very Image of the Devil. A Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter cannot aſſume a better humane ſhaps for the Devil th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe two, to wit, a drunken Man, and a malicious furi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Man. A Whoremonger, or any thing elſe, will not make h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo bad a Picture; beſides it is an in-let to many other ſins.</p>
+            <p>I pray God incline you to leave it.</p>
+            <p>And now a word or two to all diſobedient to Parents.</p>
+            <p>Though I am very brief, pray give never the leſs heed it; but rather it being ſhort, you may with more eaſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>member it, and put it into practice.</p>
+            <p>You find it commanded not only from God by Men, whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is Authority enough for it, but by his own mouth in the Mou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſaying, <hi>Exod.</hi> 20.12. <hi>Honour thy Father and Mother, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy days be long in the Land, the Lord thy God giveth thee.</hi>
+            </p>
+            <p>In theſe words, <hi>Honour thy Father and thy Mother,</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Duty is poſitively commanded; and for thy encouragemen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Length of Days is promiſed thee; and no doubt but all pro<g ref="char:EOLhyphen"/>ſperity ſhall attend thee,</p>
+            <p>But on the other hand, it is as poſitive in God's Word th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhalt be miſerably curſed; for it ſays, <hi>Curſed be he that deſpiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Father and Mother;</hi> wherefore look to it, for God's Wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is as certainly true as himſelf is true, who is Truth it ſelf.</p>
+            <p>And now concerning Fornication and Uncleanneſs, which ought not to be named, much more practiſed among Chriſti<g ref="char:EOLhyphen"/>ans. Your Bodies ought to be the Temple of the Holy Ghoſt and not joyned to an Harlot.</p>
+            <p>If it were well conſidered, it were enough to conſider the weight of that puniſhment God ſends for this ſin. To perticu<g ref="char:EOLhyphen"/>larize in any of thoſe numerous and dolorous tortures, would hardly be modeſt If a Man were to apply himſelf to one who hath endured it, he may no doubt, receive ſo good an Exhor<g ref="char:EOLhyphen"/>tation, as not to engage therein, except he hap to light on a very Monſter in Impudence and Villany.</p>
+            <p>But a further inconveniency is, it blaſts the Reputation, ſo tender whereof are many, that they would willingly ſuffer much more ſo they could but conceal it.</p>
+            <pb n="10" facs="tcp:172295:6"/>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d oh that all Men, would have ſuch that act this, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Debauchery, in much more deriſion, that they might <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs incouraged to act it.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Paul</hi> adviſes, 1 <hi>Cor.</hi> 5.11. <hi>Not to keep Company with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an one, no, not to Eat.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd how in the next Chapter doth he argue and exhort from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Cor</hi> 6.15, 16, 17, 18, 19, 20. where he ſays, <hi>ver.</hi> 15. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ye not that your Bodies are Members of Chriſt?</hi> I doubt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut many flatter your ſelves ye are Members of Chriſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h cannot be: He then proceeds, <hi>Shall I then take the Mem<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Chriſt, and make them the Members of a Harlot? God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</hi> Here you may ſee, to do it is a horrible wickedneſs; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t cuts you off from being united to Chriſt.</p>
+            <p>Then it follows <hi>ver.</hi> 16. <hi>What, know ye not that he that is join <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a Harlot, is one Body? For two ſaith he, ſhall be one fleſh.</hi> Ver. 17. <hi>But he that is joined to the Lord, is one Spirit</hi> Then ver. 18. he exhorts, ſaying, <hi>Flee Fornication;</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for many reaſons; which follow to the end of the Chap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which ought to be great Motives to you: The firſt of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich is, Every ſin that a Man doth is without the Body; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he that commits Fornication, ſins againſt his own Body. Ver. 19. <hi>What, know ye not that your Body is the Temple the Holy Ghoſt which is in you, which ye have of God, and are not your own?</hi>
+            </p>
+            <p>Ver. 20. <hi>For ye are bought with a Price, therefore glorifie <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in your-Body, and your Spirit, which are God's</hi>
+            </p>
+            <p>Conſider what little has been ſaid; I might have been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ger, as to ſet down, that ſin alſo deſtroys your Eſtate, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d more Inconveniencies; but I ſtudy to be Brief, and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord incline you to learn to po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iess your Bodies in Sanctifica<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on and Honour, not as the Heathen which know not God, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t as Chriſtians: And as you profeſs that holy Name, ſo I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeech you walk worthy of that holy Calling, free from ſpot <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd defilement here, that you may be made meet to enter <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto that pure and undefiled place hereafter, into which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o unclean thing ſhall enter.</p>
+            <p>Come I now to Swearers, that belch out and dart up Oaths <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt Heaven; but in effect, pull down a Curſe upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelves from Heaven.</p>
+            <p>It is madneſs and folly; For, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="11" facs="tcp:172295:6"/>
+            <p>It is diſgraceful and ill-manners, as I ſaid before of a Drunkard, ſo I may ſay of this too, were you at a Viſit, and there Swear, and Curſe, and Ban, in common Diſcourſe, (if they were ſober People) would they not think you to be mad and ill-bred? Or an Aſſembly, or in any other Com<g ref="char:EOLhyphen"/>pany that loves Sobriety, is it not deſpiſable? But in conver<g ref="char:EOLhyphen"/>ſing with your own Helliſh Crew, nothing is more glorious; a goodly glorying indeed! or which ought rather to be your ſhame.</p>
+            <p>It is moſt unaccountable alſo. For,</p>
+            <p>A Whoremonger may alledge, he was drawn away by De<g ref="char:EOLhyphen"/>light, (though when he has done, it will not excuſe him) but the Swearer, what can he ſay? The Drunkard may ſay, the Delight of Taſte entic'd him and prevail'd: the World<g ref="char:EOLhyphen"/>ing may ſay, the Deſire of Riches overcame him: the am<g ref="char:EOLhyphen"/>bitious Man may alledge, the golden Bait of Honour: But the Swearer can plead no excuſe.</p>
+            <p>He does it, becauſe he will be like the Devil. He muſt not expect Mercy at the Bar of God, nor indeed ſo much as crave it, but go to Hell directly from thence. For if theſe Men fall ſhort of Mercy there, how much more ſhall he?</p>
+            <p>Furthermore, it is monſtrous wicked:</p>
+            <p>It is the very Language of Hell: Hell abounds with it: It is full of Curſings and Execrations for very Torture and Pain: thoſe that delight in it here, ſhall have enough of it hereafter: there is no praiſing God, bur blaſpheming there.</p>
+            <p>The Tongue was made to praiſe God.</p>
+            <p>To celebrate and ſhew forth God's great Wiſdom in his Works, in ſo wiſely contriving and making them: and when made, ſo wiſely ordering and diſpoſing them, and not to Blaſpheme and Diſhonour him.</p>
+            <p>Secondly, The Tongue was made to Praiſe God for his great and Almighty Power after they were ſo wiſely contri<g ref="char:EOLhyphen"/>ved and ordered, that it was able ſo powerfully to make and ſuſtain them.</p>
+            <p>But above all, abundantly, we ought to Praiſe God for his goodneſs and mercy. God's goodneſs to us, claims a double Portion of Praiſe: His goodneſs in ſo plentifully ſeeding both Man and Beaſt. But above all, abundantly, his goodneſs in the Redemption of the World <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:172295:7"/>means of Grace, and hope of Glory we have in him, and through him, of which the Swearer ſhall never taſte, unleſs he leave that practice.</p>
+            <p>If fooliſh Jeſting (which is not altogether ſo illegal) be not convenient, but rather giving Thanks: how inconve<g ref="char:EOLhyphen"/>nient is Swearing? Here is abundant matter of Praiſe, but no obligation to Blaſpheme ſo Wiſe, ſo Powerful, but a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove all, ſo good a God.</p>
+            <p>I verily believe, that if God in the Creation had given to the Beaſt the uſe of the Tongue, that they would not ſo uſe it and abuſe it.</p>
+            <p>And now with reſpect to Thieves:</p>
+            <p>Thoſe that ar ſo monſtrouſly wicked, as to become High<g ref="char:EOLhyphen"/>way-men, Houſe-breakers, Pick-pockets, <hi>&amp;c.</hi>
+            </p>
+            <p>I rather pray for them, than offer them any Exhortation: for it is much if it be not in vain.</p>
+            <p>Oh! that God by his holy Spirit infuſed into them would turn their Hearts from Darkneſs to Light, and from this power of Satan to God; that thoſe that are now hurtful and injurious to their Neighbours, not only in their Goods, but many times in their Lives, might ſee the Error of their Ways, and now become ſociable Creatures; and learn to do to all Men as they would they ſhould do to them. That it would pleaſe God for the ſake of Jeſus Chriſt, to reclaim them from their Luſt, the ſatisfying whereof induces them to act ſuch Injuſtices and Cruelties, that he that hath ſtole, may ſteal no more, but rather live honeſtly, that they may have ſomething to give them that need, and ſo eſcape the Juſtice of Man, that in this World brings imparation of Name, and untimely End; and the Juſtice of God in the other World, that will bring Eternal Deſtruction both of Body and Soul.</p>
+            <p>Oh that they would hereunto ſay Amen, and do accord<g ref="char:EOLhyphen"/>ingly</p>
+            <p>And as to others that are not openly profeſſed Thieves, but private ones, ſuch as Servants that wrong their Maſters, and the like, perhaps a word of Advice may reach them; and I hope it may.</p>
+            <p>Be adviſed and refrain: For</p>
+            <p>You are in the Devil's Road, he never brought any to that height of Impiety they are at, at once; but by degrees: It
+<pb n="13" facs="tcp:172295:7"/>is an old ſaying, and very true, <hi>firſt begin to ſteal a Penny, then afterwards a Pound.</hi> Should he tempt them to com<g ref="char:EOLhyphen"/>mit the greateſt Crimes, before they were fitted for it firſt by the ſmaller, I believe many would reſiſt, &amp; not perform them.</p>
+            <p>Alſo I believe you would think it hard if God ſhould ſend you ſuch purloining Servants; which if he does, he is very Juſt in it.</p>
+            <p>Neither let the thoughts of privacy encourage you to it many of you, it may be, for all the World would not be known; let theſe Conſiderations move you who ſtand upon your Re<g ref="char:EOLhyphen"/>putation, to forbear.</p>
+            <p>
+               <hi>Firſt,</hi> Though you think you are private, how do you know you are not miſtaken, the ſmalleſt Chink, or one unad<g ref="char:EOLhyphen"/>viſed word you have let drop and have forgot, or an hundred things more may diſcover you, and then perhaps for a ſmall trifle, you fall into that diſgrace with your Parents or Friends, that your whole Fortune is ruin'd.</p>
+            <p>
+               <hi>Secondly,</hi> I believe the Devil is moſt apt to diſcover thoſe that ſtand moſt on Reputation, that ſo through ſhame they may make away themſelves, or commit other wickedneſs.</p>
+            <p>But above all, forbear out of a due ſenſe of the Wrath of God againſt you, both in this Life and the World to come; for though you eſcape the Eye of Man, you cannot eſcape his All-ſeeing Eye; and be not deceived, for Thieves among o<g ref="char:EOLhyphen"/>ther ſinners, ſhall not inherit the Kingdom of God.</p>
+            <p>
+               <hi>Laſtly,</hi> To all Murderers, Lyars, and all that are addicted to Envy, Hatred, Strife, Covetouſneſs, or the like; for I muſt be large: Therefore I will conclude with a Word of Exhortation to all in general.</p>
+            <p>You ought all of you to put away theſe ſins, and be ſorry for the ſame; and I ſpeak it for your comfort, God will free<g ref="char:EOLhyphen"/>ly forgive you, though your ſins are as Scarlet, he will make them whiter than Snow, through the moſt precious Blood of our Lord and Saviour Jeſus Chriſt. And be renewed in your Minds, reſolving never to do the like again; for to be ſorry for Sin only, is but the one half of Repentance.</p>
+            <p>Now this being a Work that ſome may not underſtand to go about rightly, and ſo after ſome finall endeavours in a wrong way, ſome may let it fall again, I will give you ſome ſmall direction therefore that you may go through with it; and</p>
+            <pb n="14" facs="tcp:172295:8"/>
+            <p>Therefore, Firſt, <hi>Deſcend down into you ſelf, ſeriouſly re<g ref="char:EOLhyphen"/>flect upon your courſe of Life, and examine it by the Law and Word of God, if it be not the High-way to Hell, if you do not Repent. Labour I ſay, firſt to ſee your ſins; for if you do not ſee them, it will be but to little purpoſe.</hi>
+            </p>
+            <p>This is the firſt Step, and a good Step</p>
+            <p>Secondly, <hi>From the conſideration of the diſpleaſure of God againſt it: Labour to be ſorry for it, you may find matter e<g ref="char:EOLhyphen"/>nough of Sorrow too, if you diligently ſearch God's Word for it.</hi>
+            </p>
+            <p>Thirdly, <hi>Confeſs your Sins to God, though he knew them well enough; and be as particular in your Confeſſion as you can: It is of great uſe and benefit.</hi>
+            </p>
+            <p>Fourthly, <hi>So much of it as hath been againſt Men, make what ſatisfaction for it you can. Theſe two laſt will give you great Eaſe of Mind, and Peace of Conſcience.</hi>
+            </p>
+            <p>Fifthly, <hi>Forgive freely all Injuries others have done unto you; and be in perfect Love and Charity with all Men: For if you forgive not Men their Treſpaſſes, how can you expect God ſhould forgive you?</hi>
+            </p>
+            <p>Sixthly, <hi>Reſolve by the Grace of God never to do the ſame again, without which all the former is not worth one Farhting, being but half Repentance.</hi>
+            </p>
+            <p>Having brought your ſelf thus far, now you are prepared for the pardon of your ſins: To get which, obſerve my fur<g ref="char:EOLhyphen"/>ther direction.</p>
+            <p>Seventhly, <hi>Approach to the Lords Table; for in this State you are throughly fitted for it, and there receive the Body and Blood of our dear Lord and Redeemer, though under the Ele<g ref="char:EOLhyphen"/>ments of Bread and Wine; and receiving it thus fixed, you ſhall with it moſt aſſuredly receive a free Pardon for all your ſins, for his moſt precious Blood ſake, and be at perfect Peace of Conſcience<g ref="char:punc">▪</g> and have great Joy in the Holy Ghoſt.</hi>
+            </p>
+            <p>Now are you a Chriſtian indeed, &amp; never till now; any thing leſs than this does but barely bear the name of a Chriſtian.</p>
+            <p>By partaking of this bleſſed Sacrament thus, you ſhall be united unto Chriſt, Chriſt ſhall dwell in you, and you in h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m; it entitles you to be a Son of God, a Member of Chriſt, and to an Inheritance in the Kingdom of Heaven.</p>
+            <p>Stop not here neither, but make a thorow work of it; And therefore,</p>
+            <p>In the eight place, <hi>Receive this free Grace and Mercy and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and being thus waſhed
+<pb n="15" facs="tcp:172295:8"/>from ſin being thus <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ad to ſin, riſe to Righteouſneſs an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Holineſs put thoſe Holy Reſolutions you had before you com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rated, into practice, you ought now to produce good Wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as meritorious, that ſo you may have Reward, but out of a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Love and Gratitude to God, that hath ſo freely pardone<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for his Son Jeſus Chriſt his ſake. Let good Works; I ſay, from you as a Stream of Love to God again, for his abu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> love ſhewn to you.</hi>
+            </p>
+            <p>Ninthly, <hi>Daily pray for Grace to ſtand and perſev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this Eſtate, and continue in Love and Charity with all Be Charitable to the Poor, freely forgive all Injuries, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no body any, and aſſure your ſelves, if you ſincerely deſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he will give it, you, though he may deny you temporal t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> becauſe of his infinite Wiſdom he may not ſee it good fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but Grace he will never deny you, if really deſired.</hi>
+            </p>
+            <p>Tenthly, <hi>As when all is done, we are ſtill ſubject to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ty, and may ſin through the ſame, though not as before w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and wickedly, therefore renew your Repentance and P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo often as the Bleſſed Sacrament ſhall be adminiſtred; a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter the ſame, ſtrive to keep your ſelves for the time to con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to perſevere unto your Lives end; and at your Lives en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall not fail to receive the Crown of Life that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s laid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all thoſe that ſince<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely love the Lord Jeſus Chriſt, and a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ient to him; you ſhall not miſs of Salvation by his mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cious Blood: To which Salvation, the Lord grant that y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all come for his Son Jeſus Chriſt his ſake: To whom with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther and the Holy Ghoſt, be all Honour and Glory for eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>And now, my Brethren, is not ſuch a State as this than to be Drunk, to Whore, to Steal, to Swear, <hi>&amp;c</hi>
+            </p>
+            <p>And ſo to Roar and Cry to all Eternity with the da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there to dwell in Everlaſting Pain and Torment, pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for you, and the Devil and his Angels.</p>
+            <p>Conſider what hath been ſaid, and the Lord add his ſing to it; where I conclude, having been briefer t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thought to have been; becauſe I ſhould el<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e have out<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sheet of Paper. I do deſign further to excite you a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thers, (that it may be, may not be ſo debauch) to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ctice of Holy and Religious Duties, as our keeping the bath, our Duties of Prayer, Praiſe, Faith. Charity Lord's-Supper, <hi>&amp;c.</hi> and therein <hi>I</hi> will uſe great Br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> In the mean time Farewel.</p>
+            <pb facs="tcp:172295:9"/>
+            <pb facs="tcp:172295:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
